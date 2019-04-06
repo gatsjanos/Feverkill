@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AVR_Ventivez_Mega8L", "AVR_Ventivez_Mega8L\AVR_Ventivez_Mega8L_6_2.cproj", "{16970CCA-E67E-415D-B25E-7AD2A03512FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16970CCA-E67E-415D-B25E-7AD2A03512FB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{16970CCA-E67E-415D-B25E-7AD2A03512FB}.Debug|AVR.Build.0 = Debug|AVR
+		{16970CCA-E67E-415D-B25E-7AD2A03512FB}.Release|AVR.ActiveCfg = Release|AVR
+		{16970CCA-E67E-415D-B25E-7AD2A03512FB}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

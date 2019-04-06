@@ -1,0 +1,20 @@
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OpenHardwareMonitorLib.dll
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitorLib.dll
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OpenHardwareMonitorLib.dll
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitorLib.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Release\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Release\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Release\OpenHardwareMonitorLib.dll

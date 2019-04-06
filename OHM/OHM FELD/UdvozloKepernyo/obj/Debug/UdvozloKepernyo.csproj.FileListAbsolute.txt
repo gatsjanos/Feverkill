@@ -1,0 +1,110 @@
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csprojResolveAssemblyReference.cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.lref
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.g.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.Properties.Resources.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csproj.GenerateResource.Cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\MainWindow2.g.cs
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\App2.g.cs
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\UdvozloKepernyo\obj\Debug\MainWindow2.baml
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csprojResolveAssemblyReference.cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\MainWindow2.g.cs
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\App2.g.cs
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.lref
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\MainWindow2.baml
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.g.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.Properties.Resources.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csproj.GenerateResource.Cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\MainWindow2.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\App2.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.lref
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\MainWindow2.baml
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.g.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.Properties.Resources.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.pdb
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe.config
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.pdb
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csprojResolveAssemblyReference.cache
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\MainWindow2.g.cs
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\App2.g.cs
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.cache
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.lref
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\MainWindow2.baml
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.g.resources
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.Properties.Resources.resources
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csproj.GenerateResource.Cache
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.exe
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\MainWindow2.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\App2.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.lref
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\MainWindow2.baml
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.g.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.Properties.Resources.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\App2.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.lref
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.g.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.Properties.Resources.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvKepernyo.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvKepernyo.baml
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe.config
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csprojResolveAssemblyReference.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvKepernyo.g.cs
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\App2.g.cs
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.lref
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvKepernyo.baml
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.g.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.Properties.Resources.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csproj.GenerateResource.Cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe.config
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\bin\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvKepernyo.g.cs
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\App2.g.cs
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo_MarkupCompile.lref
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvKepernyo.baml
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.g.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.Properties.Resources.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\UdvozloKepernyo\obj\Debug\UdvozloKepernyo.pdb

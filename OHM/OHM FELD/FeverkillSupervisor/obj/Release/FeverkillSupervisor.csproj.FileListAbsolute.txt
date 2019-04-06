@@ -1,0 +1,13 @@
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\bin\Release\FeverkillSupervisor.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\FeverkillSupervisor.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Release\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Release\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Release\FeverkillSupervisor.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Release\FeverkillSupervisor.exe.config
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Release\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Release\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\FeverkillSupervisor\obj\Release\FeverkillSupervisor.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\FeverkillSupervisor\obj\Release\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\FeverkillSupervisor\obj\Release\FeverkillSupervisor.pdb

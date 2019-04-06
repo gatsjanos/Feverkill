@@ -1,0 +1,27 @@
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\FeverkillSupervisor\bin\Debug\FeverkillSupervisor.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\FeverkillSupervisor\bin\Debug\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\FeverkillSupervisor\bin\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\bin\Debug\FeverkillSupervisor.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\bin\Debug\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\bin\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.csprojResolveAssemblyReference.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.exe.config
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.csprojResolveAssemblyReference.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.exe.config
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\FeverkillSupervisor\obj\Debug\FeverkillSupervisor.pdb

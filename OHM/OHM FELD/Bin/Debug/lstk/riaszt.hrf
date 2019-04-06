@@ -1,0 +1,50 @@
+﻿4
+ Nuvoton NCT6776F (/lpc/nct6776f) =->> Temperature #1 
+58
+>
+Proci 59°C!!!
+1
+n
+-1
+ AMD Radeon R9 200 Series (/atigpu/0) =->> GPU Core 
+87
+>
+Videókártya 88°C
+1
+n
+-1
+ Nuvoton NCT6776F (/lpc/nct6776f) =->> Temperature #1 
+70
+>
+Proci miatt LEÁLL!
+0
+l
+-1
+ AMD Radeon R9 200 Series (/atigpu/0) =->> GPU Core 
+110
+>
+VGA miatt LEÁLL!
+0
+l
+-1
+ Nuvoton NCT6776F (/lpc/nct6776f) =->> Temperature #1 
+65
+>
+Proci miatt HIBERNÁL!
+0
+h
+3
+ AMD Radeon R9 200 Series (/atigpu/0) =->> GPU Core 
+99
+>
+VGA miatt HIBERNÁL!
+0
+h
+3
+ Nuvoton NCT6776F (/lpc/nct6776f) =->> Temperature #1 
+60
+>
+CPU is HOT!!
+0
+n
+-1

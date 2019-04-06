@@ -1,0 +1,256 @@
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\en\Feverkill.resources.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Aga.Controls.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\MathNet.Numerics.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OxyPlot.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OxyPlot.WindowsForms.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\AttekintoWPF.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\UserControl1.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Tutorial\TutorWPFAblak.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\App.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_Content.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_MarkupCompile.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_MarkupCompile.lref
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\AttekintoWPF.baml
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\UserControl1.baml
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Tutorial\TutorWPFAblak.baml
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.g.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Aktivalo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.AlapBeallito.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AutoIndKesl.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.PlotPanel.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.ManualVez.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AboutBox.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.BiztSzenzorok.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Frissito.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.GetTeljesverz.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Klonozo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaKezelo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaSzerkeszto.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Nyelvvalaszto.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.PortForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Homerok.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.RiasztKezelo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Visszajelzes.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Felcimkezo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.Properties.Resources.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.ParameterForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.CrashForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FoAblak.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.ReportForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AutoIndKesl.en.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.en.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaSzerkeszto.en.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\en\Feverkill.resources.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Jatszoter.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\UdvozloKepernyo.MBoxShower.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\UdvozloKepernyo.TopMostDisabledUzenet.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.exe.config
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.exe
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.pdb
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\en\Feverkill.resources.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Aga.Controls.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\ebreszt.exe
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\MathNet.Numerics.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OxyPlot.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\UdvozloKepernyo.exe
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\ebreszt.pdb
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.pdb
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\UdvozloKepernyo.pdb
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.csprojResolveAssemblyReference.cache
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\AttekintoWPF.g.cs
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\UserControl1.g.cs
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Tutorial\TutorWPFAblak.g.cs
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\App.g.cs
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_Content.g.cs
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_MarkupCompile.cache
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_MarkupCompile.lref
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\AttekintoWPF.baml
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\UserControl1.baml
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Tutorial\TutorWPFAblak.baml
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.g.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Aktivalo.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.AlapBeallito.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AutoIndKesl.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.PlotPanel.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.ManualVez.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AboutBox.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.BiztSzenzorok.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Frissito.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.GetTeljesverz.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Klonozo.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaKezelo.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaSzerkeszto.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Nyelvvalaszto.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.PortForm.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Homerok.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.RiasztKezelo.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Jatszoter.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Visszajelzes.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Felcimkezo.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.Properties.Resources.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\UdvozloKepernyo.MBoxShower.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\UdvozloKepernyo.TopMostDisabledUzenet.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.ParameterForm.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.CrashForm.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FoAblak.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.ReportForm.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AutoIndKesl.en.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.en.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaSzerkeszto.en.resources
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.csproj.GenerateResource.Cache
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\en\Feverkill.resources.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.exe
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.pdb
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.BootIteracioBeallit.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.BootIteracioBeallit.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.exe.config
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Feverkill.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\en\Feverkill.resources.dll
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\Aga.Controls.dll
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\ebreszt.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\MathNet.Numerics.dll
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OxyPlot.dll
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OxyPlot.WindowsForms.dll
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\UdvozloKepernyo.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\ebreszt.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\UdvozloKepernyo.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.csprojResolveAssemblyReference.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\AttekintoWPF.g.cs
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\UserControl1.g.cs
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Tutorial\TutorWPFAblak.g.cs
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\App.g.cs
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_Content.g.cs
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_MarkupCompile.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill_MarkupCompile.lref
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\AttekintoWPF.baml
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Attekinto\UserControl1.baml
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\WPF\Tutorial\TutorWPFAblak.baml
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.g.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Aktivalo.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.AlapBeallito.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AutoIndKesl.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.BootIteracioBeallit.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.PlotPanel.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.ManualVez.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AboutBox.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.BiztSzenzorok.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Frissito.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.GetTeljesverz.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Klonozo.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaKezelo.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaSzerkeszto.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Nyelvvalaszto.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.PortForm.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Homerok.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.RiasztKezelo.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Jatszoter.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Visszajelzes.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Felcimkezo.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.Properties.Resources.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\UdvozloKepernyo.MBoxShower.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\UdvozloKepernyo.TopMostDisabledUzenet.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.ParameterForm.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.CrashForm.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FoAblak.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.ReportForm.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AutoIndKesl.en.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.en.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaSzerkeszto.en.resources
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.csproj.GenerateResource.Cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\en\Feverkill.resources.dll
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\Feverkill.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\Feverkill.exe.config
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\Feverkill.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\Feverkill.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\en\Feverkill.resources.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\Aga.Controls.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\MathNet.Numerics.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\OxyPlot.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\OxyPlot.WindowsForms.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\FeverkillSupervisor.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\Feverkill.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\WPF\Attekinto\AttekintoWPF.g.cs
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\WPF\Attekinto\UserControl1.g.cs
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\WPF\Tutorial\TutorWPFAblak.g.cs
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\WPF\Attekinto\App.g.cs
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\Feverkill_Content.g.cs
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\Feverkill_MarkupCompile.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\Feverkill_MarkupCompile.lref
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\WPF\Attekinto\AttekintoWPF.baml
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\WPF\Attekinto\UserControl1.baml
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\WPF\Tutorial\TutorWPFAblak.baml
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\Feverkill.g.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Aktivalo.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.AlapBeallito.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AutoIndKesl.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.BootIteracioBeallit.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.PlotPanel.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.ManualVez.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AboutBox.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.BiztSzenzorok.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Frissito.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.GetTeljesverz.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Klonozo.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaKezelo.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaSzerkeszto.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Nyelvvalaszto.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.PortForm.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Homerok.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.RiasztKezelo.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Jatszoter.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Visszajelzes.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.Felcimkezo.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.Properties.Resources.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\UdvozloKepernyo.MBoxShower.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\UdvozloKepernyo.TopMostDisabledUzenet.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.ParameterForm.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.CrashForm.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FoAblak.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.ReportForm.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.AutoIndKesl.en.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.en.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitor.GUI.SemaSzerkeszto.en.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\Feverkill.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\en\Feverkill.resources.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\Feverkill.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\Feverkill.pdb

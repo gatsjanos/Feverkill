@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <?define ebreszt_TargetDir=$(var.ebreszt.TargetDir)?>
+  <?define Feverkill_TargetDir=$(var.Feverkill.TargetDir)?>
+  <Product Id="*" Name="Feverkill Control Software" Language="1033" Version="1.8.9.0" Manufacturer="Feverkill" UpgradeCode="ec82f517-2775-4198-9179-b9440295b004">
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <MediaTemplate EmbedCab="yes" />
+
+    <Icon Id="uninsicon.ico" SourceFile="$(var.SolutionDir)fanAtlatszo.ico"/>
+    <Property Id="ARPPRODUCTICON" Value="uninsicon.ico" />
+    
+    <!--<UI>
+      <UIRef Id="WixUI_InstallDir" />
+
+      <Publish Dialog="ExitDialog"
+    Control="Finish"
+    Event="DoAction"
+    Value="LaunchApplication">WIXUI_EXITDIALOGOPTIONALCHECKBOX = 1 and NOT Installed</Publish>
+    </UI>-->
+    <UI Id="WixUI_Minimal">
+      <TextStyle Id="WixUI_Font_Normal" FaceName="Tahoma" Size="8" />
+      <TextStyle Id="WixUI_Font_Bigger" FaceName="Tahoma" Size="12" />
+      <TextStyle Id="WixUI_Font_Title" FaceName="Tahoma" Size="9" Bold="yes" />
+
+      <Property Id="DefaultUIFont" Value="WixUI_Font_Normal" />
+      <Property Id="WixUI_Mode" Value="Minimal" />
+
+      <DialogRef Id="ErrorDlg" />
+      <DialogRef Id="FatalError" />
+      <DialogRef Id="FilesInUse" />
+      <DialogRef Id="MsiRMFilesInUse" />
+      <DialogRef Id="PrepareDlg" />
+      <DialogRef Id="ProgressDlg" />
+      <DialogRef Id="ResumeDlg" />
+      <DialogRef Id="UserExit" />
+
+      <!-- This is the welcome dialog you specified-->
+      <DialogRef Id="WelcomeDlg" />
+
+      <!-- Hook the new welcome dialog to the next one in the stack-->
+      <Publish Dialog="WelcomeDlg" Control="Next" Event="NewDialog" Value="PrepareDlg">1</Publish>
+
+      <Publish Dialog="ExitDialog" Control="Finish" Event="EndDialog" Value="Return" Order="999">1</Publish>
+
+      <Publish Dialog="VerifyReadyDlg" Control="Back" Event="NewDialog" Value="MaintenanceTypeDlg">1</Publish>
+
+      <Publish Dialog="MaintenanceWelcomeDlg" Control="Next" Event="NewDialog" Value="MaintenanceTypeDlg">1</Publish>
+
+      <Publish Dialog="MaintenanceTypeDlg" Control="RepairButton" Event="NewDialog" Value="VerifyReadyDlg">1</Publish>
+      <Publish Dialog="MaintenanceTypeDlg" Control="RemoveButton" Event="NewDialog" Value="VerifyReadyDlg">1</Publish>
+      <Publish Dialog="MaintenanceTypeDlg" Control="Back" Event="NewDialog" Value="MaintenanceWelcomeDlg">1</Publish>
+
+      <Property Id="ARPNOMODIFY" Value="1" />
+
+      <Publish Dialog="ExitDialog"
+  Control="Finish"
+  Event="DoAction"
+  Value="LaunchApplication">WIXUI_EXITDIALOGOPTIONALCHECKBOX = 1 and NOT Installed</Publish>
+    </UI>
+
+    <UIRef Id="WixUI_Common" />
+
+
+    <Property Id="WIXUI_INSTALLDIR" Value="INSTALLFOLDER" />
+    <Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOXTEXT" Value="Launch Control Software Now!" />
+    <Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOX" Value="1"/>
+    <Property Id="WixShellExecTarget" Value="[INSTALLFOLDER]FeverkillSupervisor.exe" />
+    <CustomAction Id="LaunchApplication" BinaryKey="WixCA" DllEntry="WixShellExec" Impersonate="yes" />
+
+    <Feature Id="ProductFeature" Title="Feverkill Control Software" Level="1">
+      <ComponentGroupRef Id="ProductComponentsGyoker" />
+      <ComponentGroupRef Id="ProductComponentsEn" />
+      <ComponentGroupRef Id="ProductComponentsLic" />
+      <ComponentGroupRef Id="ProductComponentsLoc" />
+      <ComponentGroupRef Id="ProductComponentsLstk" />
+      <ComponentGroupRef Id="ProductComponentsRsx" />
+      <!--<ComponentGroupRef Id="ProgramFilesFolder_files" />-->
+      <ComponentRef Id="ApplicationShortcut" />
+      <ComponentRef Id="ApplicationShortcutDesktop" />
+      
+      <ComponentGroupRef Id="ProductComponentsBetutipusok" />
+
+
+      <!--<ComponentRef Id="MyFontsFonts10000" />
+      <ComponentRef Id="MyFontsFonts10001" />
+      <ComponentRef Id="MyFontsFonts10002" />
+      <ComponentRef Id="MyFontsFonts10003" />
+      <ComponentRef Id="MyFontsFonts10004" />
+      <ComponentRef Id="MyFontsFonts10005" />
+      <ComponentRef Id="MyFontsFonts10006" />
+      <ComponentRef Id="MyFontsFonts10007" />
+      <ComponentRef Id="MyFontsFonts10008" />
+      <ComponentRef Id="MyFontsFonts10009" />
+      <ComponentRef Id="MyFontsFonts10010" />
+      <ComponentRef Id="MyFontsFonts10011" />
+      <ComponentRef Id="MyFontsFonts10012" />
+      <ComponentRef Id="MyFontsFonts10013" />
+      <ComponentRef Id="MyFontsFonts10014" />
+      <ComponentRef Id="MyFontsFonts10015" />
+      <ComponentRef Id="MyFontsFonts10016" />
+      <ComponentRef Id="MyFontsFonts10017" />
+      <ComponentRef Id="MyFontsFonts10018" />
+      <ComponentRef Id="MyFontsFonts10019" />
+      <ComponentRef Id="MyFontsFonts10020" />
+      <ComponentRef Id="MyFontsFonts10021" />
+      <ComponentRef Id="MyFontsFonts10022" />
+      <ComponentRef Id="MyFontsFonts10023" />
+      <ComponentRef Id="MyFontsFonts10024" />
+      <ComponentRef Id="MyFontsFonts10025" />
+      <ComponentRef Id="MyFontsFonts10026" />
+      <ComponentRef Id="MyFontsFonts10027" />
+      <ComponentRef Id="MyFontsFonts10028" />
+      <ComponentRef Id="MyFontsFonts10029" />
+      <ComponentRef Id="MyFontsFonts10030" />
+      <ComponentRef Id="MyFontsFonts10031" />
+      <ComponentRef Id="MyFontsFonts10032" />
+      <ComponentRef Id="MyFontsFonts10033" />
+      <ComponentRef Id="MyFontsFonts10034" />
+      <ComponentRef Id="MyFontsFonts10035" />
+      <ComponentRef Id="MyFontsFonts10036" />
+      <ComponentRef Id="MyFontsFonts10037" />
+      <ComponentRef Id="MyFontsFonts10038" />
+      <ComponentRef Id="MyFontsFonts10039" />
+      <ComponentRef Id="MyFontsFonts10040" />
+      <ComponentRef Id="MyFontsFonts10041" />
+      <ComponentRef Id="MyFontsFonts10042" />
+      <ComponentRef Id="MyFontsFonts10043" />
+      <ComponentRef Id="MyFontsFonts10044" />
+      <ComponentRef Id="MyFontsFonts10045" />-->
+      
+      
+    </Feature>
+  </Product>
+
+  <Fragment>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramMenuFolder">
+        <Directory Id="ApplicationProgramsFolder" Name="Feverkill"/>
+      </Directory>
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLFOLDER" Name="FeverkillCS">
+          <Directory Id="INSF_en" Name="en" />
+          <Directory Id="INSF_lic" Name="lic" />
+          <Directory Id="INSF_loc" Name="loc" />
+          <Directory Id="INSF_lstk" Name="lstk" />
+          <Directory Id="INSF_Rsx" Name="Rsx" />
+          <Directory Id="INSTALLFontsFolder" Name="Fonts"/>
+        </Directory>
+      </Directory>
+      <Directory Id="DesktopFolder" Name="Desktop" />
+      <!--<Directory Id="INSTALLFontsFolder" Name="FontsFolder"/>-->
+      <!--<Directory Id="FontsFolder" Name="FontsFolder"/>-->
+
+      
+    </Directory>
+  </Fragment>
+
+  <Fragment>
+
+    <DirectoryRef Id="ApplicationProgramsFolder">
+      <Component Id="ApplicationShortcut" Guid="AFEDFC8C-B690-4E02-90EB-B12A58B91B94">
+        <Shortcut Id="ApplicationStartMenuShortcut" Name="Feverkill" Description="Cooling Controller" Target="[INSTALLFOLDER]FeverkillSupervisor.exe" WorkingDirectory="INSTALLFOLDER" />
+        <RemoveFolder Id="RemoveApplicationProgramsFolder" On="uninstall" />
+        <RegistryValue Root="HKCU" Key="Software\Microsoft\FeverkillCS" Name="installed" Type="integer" Value="1" KeyPath="yes" />
+      </Component>
+    </DirectoryRef>
+
+    <DirectoryRef Id="DesktopFolder">
+      <Component Id="ApplicationShortcutDesktop" Guid="FBD45245-DB03-4469-914C-E9E024EDD470">
+        <Shortcut Id="ApplicationDesktopShortcut" Name="Feverkill" Description="Cooling Controller" Target="[INSTALLFOLDER]FeverkillSupervisor.exe" WorkingDirectory="INSTALLFOLDER" />
+        <RemoveFolder Id="RemoveDesktopFolder" On="uninstall" />
+        <RegistryValue Root="HKCU" Key="Software\Microsoft\FeverkillCS" Name="installed" Type="integer" Value="1" KeyPath="yes" />
+      </Component>
+    </DirectoryRef>
+
+  </Fragment>
+
+  <Fragment>
+    <ComponentGroup Id="ProductComponentsEn" Directory="INSF_en">
+      <Component Id="en_Feverkill.resources.dll" Guid="6ecfb1e0-aeef-4842-be4e-147227e07729">
+        <RemoveFile Id="remove_1" Name="Feverkill.resources.dll" On="both" />
+        <File Id="en_Feverkill.resources.dll" Name="Feverkill.resources.dll" Source="$(var.Feverkill_TargetDir)en\Feverkill.resources.dll" />
+      </Component>
+    </ComponentGroup>
+
+    <ComponentGroup Id="ProductComponentsLic" Directory="INSF_lic">
+      <Component Id="ModLicense.html" Guid="6ecfb1f0-aeef-4842-be4e-147227e07729">
+        <RemoveFile Id="remove_2" Name="ModLicense.html" On="both" />
+        <File Id="ModLicense.html" Name="ModLicense.html" Source="$(var.Feverkill_TargetDir)lic\ModLicense.html" />
+      </Component>
+    </ComponentGroup>
+    <ComponentGroup Id="ProductComponentsLoc" Directory="INSF_loc">
+      <Component Id="en.loc" Guid="6ecfb1f0-aeef-4842-be4e-147227e07e29">
+        <RemoveFile Id="remove_3" Name="en.loc" On="both" />
+        <File Id="en.loc" Name="en.loc" Source="$(var.Feverkill_TargetDir)loc\en.loc" />
+      </Component>
+    </ComponentGroup>
+    <ComponentGroup Id="ProductComponentsLstk" Directory="INSF_lstk">
+    </ComponentGroup>
+    <ComponentGroup Id="ProductComponentsRsx" Directory="INSF_Rsx">
+      <Component Id="riaszt.wav" Guid="6ecfb1f0-aeef-4842-be4e-147222e07729">
+        <RemoveFile Id="remove_4" Name="riaszt.wav" On="both" />
+        <File Id="riaszt.wav" Name="riaszt.wav" Source="$(var.Feverkill_TargetDir)Rsx\riaszt.wav" />
+      </Component>
+    </ComponentGroup>
+
+    <ComponentGroup Id="ProductComponentsGyoker" Directory="INSTALLFOLDER">
+
+      <Component Id="ebreszt.exe" Guid="88b188ca-e580-4a10-9135-9d672b50fbda">
+        <RemoveFile Id="remove_5" Name="ebreszt.exe" On="both" />
+        <File Id="ebreszt.exe" Name="ebreszt.exe" Source="$(var.ebreszt_TargetDir)ebreszt.exe" />
+      </Component>
+
+      <Component Id="Feverkill.exe" Guid="47db213d-8a7b-4116-8970-4de7c2b4d7f8">
+        <RemoveFile Id="remove_6" Name="Feverkill.exe" On="both" />
+        <File Id="Feverkill.exe" Name="Feverkill.exe" Source="$(var.Feverkill_TargetDir)Feverkill.exe" />
+      </Component>
+      <Component Id="FeverkillSupervisor.exe" Guid="969d16ba-66ba-43a1-a533-e9d7aedf7c7b">
+        <RemoveFile Id="remove_7" Name="FeverkillSupervisor.exe" On="both" />
+        <File Id="FeverkillSupervisor.exe" Name="FeverkillSupervisor.exe" Source="$(var.Feverkill_TargetDir)FeverkillSupervisor.exe" />
+      </Component>
+      <Component Id="OpenHardwareMonitorLib.dll" Guid="51517860-6579-4f1e-b15f-a5ce283c5b13">
+        <RemoveFile Id="remove_8" Name="OpenHardwareMonitorLib.dll" On="both" />
+        <File Id="OpenHardwareMonitorLib.dll" Name="OpenHardwareMonitorLib.dll" Source="$(var.Feverkill_TargetDir)OpenHardwareMonitorLib.dll" />
+      </Component>
+      <Component Id="UdvozloKepernyo.exe" Guid="ce3a676a-ebc8-4e5d-b3f6-d86f6161f544">
+        <RemoveFile Id="remove_9" Name="UdvozloKepernyo.exe" On="both" />
+        <File Id="UdvozloKepernyo.exe" Name="UdvozloKepernyo.exe" Source="$(var.Feverkill_TargetDir)UdvozloKepernyo.exe" />
+      </Component>
+      <Component Id="Aga.Controls.dll" Guid="9182bf22-526e-4472-8481-401549200fe2">
+        <RemoveFile Id="remove_10" Name="Aga.Controls.dll" On="both" />
+        <File Id="Aga.Controls.dll" Name="Aga.Controls.dll" Source="$(var.Feverkill_TargetDir)Aga.Controls.dll" />
+      </Component>
+      <Component Id="MathNet.Numerics.dll" Guid="dbaf86bd-d4dc-4d88-a1d4-963b0317bde1">
+        <RemoveFile Id="remove_11" Name="MathNet.Numerics.dll" On="both" />
+        <File Id="MathNet.Numerics.dll" Name="MathNet.Numerics.dll" Source="$(var.Feverkill_TargetDir)MathNet.Numerics.dll" />
+      </Component>
+      <Component Id="OxyPlot.dll" Guid="785989cf-4e00-4cb3-8e54-437df26259f7">
+        <RemoveFile Id="remove_12" Name="OxyPlot.dll" On="both" />
+        <File Id="OxyPlot.dll" Name="OxyPlot.dll" Source="$(var.Feverkill_TargetDir)OxyPlot.dll" />
+      </Component>
+      <Component Id="OxyPlot.WindowsForms.dll" Guid="c78f9b44-cc79-43e6-8dc6-439072e86e7b">
+        <RemoveFile Id="remove_13" Name="OxyPlot.WindowsForms.dll" On="both" />
+        <File Id="OxyPlot.WindowsForms.dll" Name="OxyPlot.WindowsForms.dll" Source="$(var.Feverkill_TargetDir)OxyPlot.WindowsForms.dll" />
+      </Component>
+    </ComponentGroup>
+
+      <ComponentGroup Id="ProductComponentsBetutipusok" Directory="INSTALLFontsFolder">
+      <Component Id = "MyFontsFonts10000" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10000">
+        <File Id = "calibri.ttf" Source = "$(var.SolutionDir)Betutipusok\calibri.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10001" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10001">
+        <File Id = "calibrib.ttf" Source = "$(var.SolutionDir)Betutipusok\calibrib.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10002" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10002">
+        <File Id = "calibrii.ttf" Source = "$(var.SolutionDir)Betutipusok\calibrii.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10003" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10003">
+        <File Id = "calibril.ttf" Source = "$(var.SolutionDir)Betutipusok\calibril.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10004" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10004">
+        <File Id = "calibrili.ttf" Source = "$(var.SolutionDir)Betutipusok\calibrili.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10005" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10005">
+        <File Id = "calibriz.ttf" Source = "$(var.SolutionDir)Betutipusok\calibriz.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10006" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10006">
+        <File Id = "comic.ttf" Source = "$(var.SolutionDir)Betutipusok\comic.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10007" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10007">
+        <File Id = "comicbd.ttf" Source = "$(var.SolutionDir)Betutipusok\comicbd.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10008" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10008">
+        <File Id = "comici.ttf" Source = "$(var.SolutionDir)Betutipusok\comici.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10009" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10009">
+        <File Id = "comicz.ttf" Source = "$(var.SolutionDir)Betutipusok\comicz.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10010" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10010">
+        <File Id = "consola.ttf" Source = "$(var.SolutionDir)Betutipusok\consola.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10011" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10011">
+        <File Id = "consolab.ttf" Source = "$(var.SolutionDir)Betutipusok\consolab.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10012" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10012">
+        <File Id = "consolai.ttf" Source = "$(var.SolutionDir)Betutipusok\consolai.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10013" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10013">
+        <File Id = "consolaz.ttf" Source = "$(var.SolutionDir)Betutipusok\consolaz.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10014" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10014">
+        <File Id = "constan.ttf" Source = "$(var.SolutionDir)Betutipusok\constan.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10015" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10015">
+        <File Id = "constanb.ttf" Source = "$(var.SolutionDir)Betutipusok\constanb.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10016" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10016">
+        <File Id = "constani.ttf" Source = "$(var.SolutionDir)Betutipusok\constani.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10017" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10017">
+        <File Id = "constanz.ttf" Source = "$(var.SolutionDir)Betutipusok\constanz.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10018" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10018">
+        <File Id = "COOPBL.TTF" Source = "$(var.SolutionDir)Betutipusok\COOPBL.TTF" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10019" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10019">
+        <File Id = "impact.ttf" Source = "$(var.SolutionDir)Betutipusok\impact.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10020" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10020">
+        <File Id = "MinionProBold.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-Bold.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10021" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10021">
+        <File Id = "MinionProBoldCn.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-BoldCn.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10022" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10022">
+        <File Id = "MinionProBoldCnIt.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-BoldCnIt.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10023" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10023">
+        <File Id = "MinionProBoldIt.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-BoldIt.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10024" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10024">
+        <File Id = "MinionProIt.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-It.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10025" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10025">
+        <File Id = "MinionProMedium.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-Medium.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10026" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10026">
+        <File Id = "MinionProMediumIt.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-MediumIt.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10027" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10027">
+        <File Id = "MinionProRegular.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-Regular.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10028" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10028">
+        <File Id = "MinionProSemibold.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-Semibold.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10029" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10029">
+        <File Id = "MinionProSemiboldIt.otf" Source = "$(var.SolutionDir)Betutipusok\MinionPro-SemiboldIt.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10030" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10030">
+        <File Id = "OratorStdSlanted.otf" Source = "$(var.SolutionDir)Betutipusok\OratorStd-Slanted.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10031" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10031">
+        <File Id = "OratorStd.otf" Source = "$(var.SolutionDir)Betutipusok\OratorStd.otf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10032" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10032">
+        <File Id = "segoepr.ttf" Source = "$(var.SolutionDir)Betutipusok\segoepr.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10033" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10033">
+        <File Id = "segoeprb.ttf" Source = "$(var.SolutionDir)Betutipusok\segoeprb.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10034" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10034">
+        <File Id = "segoeui.ttf" Source = "$(var.SolutionDir)Betutipusok\segoeui.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10035" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10035">
+        <File Id = "segoeuib.ttf" Source = "$(var.SolutionDir)Betutipusok\segoeuib.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10036" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10036">
+        <File Id = "segoeuii.ttf" Source = "$(var.SolutionDir)Betutipusok\segoeuii.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10037" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10037">
+        <File Id = "segoeuil.ttf" Source = "$(var.SolutionDir)Betutipusok\segoeuil.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10038" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10038">
+        <File Id = "segoeuisl.ttf" Source = "$(var.SolutionDir)Betutipusok\segoeuisl.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10039" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10039">
+        <File Id = "segoeuiz.ttf" Source = "$(var.SolutionDir)Betutipusok\segoeuiz.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10040" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10040">
+        <File Id = "seguibl.ttf" Source = "$(var.SolutionDir)Betutipusok\seguibl.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10041" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10041">
+        <File Id = "seguibli.ttf" Source = "$(var.SolutionDir)Betutipusok\seguibli.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10042" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10042">
+        <File Id = "seguili.ttf" Source = "$(var.SolutionDir)Betutipusok\seguili.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10043" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10043">
+        <File Id = "seguisb.ttf" Source = "$(var.SolutionDir)Betutipusok\seguisb.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10044" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10044">
+        <File Id = "seguisbi.ttf" Source = "$(var.SolutionDir)Betutipusok\seguisbi.ttf" TrueType = "yes"/>
+      </Component>
+      <Component Id = "MyFontsFonts10045" Permanent="yes" Guid = "c78f9b44-cc79-43e6-8dc6-439072e10045">
+        <File Id = "seguisli.ttf" Source = "$(var.SolutionDir)Betutipusok\seguisli.ttf" TrueType = "yes"/>
+      </Component>
+
+      </ComponentGroup>
+    
+  </Fragment>
+</Wix>

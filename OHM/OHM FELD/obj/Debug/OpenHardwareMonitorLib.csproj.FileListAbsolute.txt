@@ -1,0 +1,35 @@
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Debug\OpenHardwareMonitorLib.dll
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Debug\OpenHardwareMonitorLib.dll
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Debug\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Debug\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Debug\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Debug\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.pdb
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Felh\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.dll
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.dll
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Bin\Debug\OpenHardwareMonitorLib.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.dll
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\obj\Debug\OpenHardwareMonitorLib.pdb

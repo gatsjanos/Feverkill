@@ -1,0 +1,8 @@
+D:\Users\gatsj\Desktop\OHM FELD\Installer\bin\Release\Installer.msi
+D:\Users\gatsj\Desktop\OHM FELD\Installer\bin\Release\Installer.wixpdb
+obj\Release\Product.wixobj
+obj\Release\Installer.wixproj.BindContentsFileListnull.txt
+obj\Release\Installer.wixproj.BindOutputsFileListnull.txt
+obj\Release\Installer.wixproj.BindBuiltOutputsFileListnull.txt
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Installer\bin\Release\Installer.msi
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Installer\bin\Release\Installer.wixpdb

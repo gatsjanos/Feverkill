@@ -1,0 +1,16 @@
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\bin\Debug\Frissito.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\bin\Debug\Frissito.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\bin\Debug\Frissito.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Debug\Frissito.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Debug\Frissito.ResourceFrissito.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Debug\Frissito.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Debug\Frissito.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Debug\Frissito.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\bin\Debug\Frissito.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\bin\Debug\Frissito.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\bin\Debug\Frissito.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Debug\Frissito.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Debug\Frissito.ResourceFrissito.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Debug\Frissito.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Debug\Frissito.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Debug\Frissito.pdb

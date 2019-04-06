@@ -1,0 +1,2 @@
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Installer\bin\Release\Installer.msi
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Installer\bin\Release\Installer.wixpdb

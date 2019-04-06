@@ -1,0 +1,22 @@
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\bin\Release\Frissito.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\bin\Release\Frissito.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\bin\Release\Frissito.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Release\Frissito.ResourceFrissito.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Release\Frissito.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Release\Frissito.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Release\Frissito.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Frissito\obj\Release\Frissito.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\bin\Release\Frissito.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\bin\Release\Frissito.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\bin\Release\Frissito.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Release\Frissito.ResourceFrissito.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Release\Frissito.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Release\Frissito.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Frissito\obj\Release\Frissito.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Frissito\bin\Release\Frissito.exe.config
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Frissito\bin\Release\Frissito.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Frissito\bin\Release\Frissito.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Frissito\obj\Release\Frissito.ResourceFrissito.resources
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Frissito\obj\Release\Frissito.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Frissito\obj\Release\Frissito.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\Frissito\obj\Release\Frissito.pdb

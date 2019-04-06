@@ -1,0 +1,41 @@
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.exe.config
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.pdb
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.exe.config
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.exe
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Debug\ebreszt.pdb
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.csprojResolveAssemblyReference.cache
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.exe
+C:\Users\Felh\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.exe.config
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.pdb
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.csprojResolveAssemblyReference.cache
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.exe
+D:\Google Drive\BIZT MENTÉSEK\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.exe.config
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\bin\Debug\ebreszt.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\obj\Debug\ebreszt.pdb

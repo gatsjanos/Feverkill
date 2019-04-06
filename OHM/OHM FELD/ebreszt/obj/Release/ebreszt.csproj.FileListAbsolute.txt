@@ -1,0 +1,35 @@
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.exe.config
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Release\ebreszt.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Release\ebreszt.pdb
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.exe.config
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.exe
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.pdb
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Release\ebreszt.csprojResolveAssemblyReference.cache
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Release\ebreszt.exe
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\bin\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Release\ebreszt.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\ebreszt\obj\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.exe.config
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\bin\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\Feverkill\OHM\OHM FELD\ebreszt\obj\Release\ebreszt.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeployedProjects>
+    <string>ebreszt\ebreszt.csproj</string>
+    <string>Feverkill.csproj</string>
+    <string>FeverkillSupervisor\FeverkillSupervisor.csproj</string>
+    <string>OpenHardwareMonitorLib.csproj</string>
+    <string>UdvozloKepernyo\UdvozloKepernyo.csproj</string>
+  </DeployedProjects>
+  <DirectoryMappings>
+    <Item Key="" Value="ProgramFilesFolder" />
+    <Item Key="en" Value="INSTALLFOLDER" />
+  </DirectoryMappings>
+  <FileMappings />
+  <DeploySymbols>false</DeploySymbols>
+  <DeployExternalLocalizations>false</DeployExternalLocalizations>
+</Configuration>

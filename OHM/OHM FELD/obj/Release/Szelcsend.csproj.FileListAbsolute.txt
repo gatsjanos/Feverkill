@@ -1,0 +1,264 @@
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.csprojResolveAssemblyReference.cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_Content.g.cs
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_MarkupCompile.cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_MarkupCompile.lref
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Szelcsend.exe.config
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Szelcsend.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Aga.Controls.dll
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OxyPlot.dll
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OxyPlot.WindowsForms.dll
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Aga.Controls.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.g.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.AlapBeallito.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.AzonnaliVez.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.AboutBox.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Frissito.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Klonozo.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaKivalaszto.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaSzerkeszto.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.PortForm.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Homerok.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.RiasztTorlo.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Visszajelzes.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.Properties.Resources.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ParameterForm.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.CrashForm.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.MainForm.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ReportForm.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.csproj.GenerateResource.Cache
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.exe
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\Bin\Release\Szelcsend.exe.config
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\Bin\Release\Szelcsend.exe
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\Bin\Release\Aga.Controls.dll
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\Bin\Release\OxyPlot.dll
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\Bin\Release\OxyPlot.WindowsForms.dll
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\Bin\Release\Aga.Controls.pdb
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\Szelcsend.csprojResolveAssemblyReference.cache
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\Szelcsend_Content.g.cs
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\Szelcsend_MarkupCompile.cache
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\Szelcsend_MarkupCompile.lref
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\Szelcsend.g.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.AlapBeallito.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.AzonnaliVez.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.AboutBox.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Frissito.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Klonozo.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaKivalaszto.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaSzerkeszto.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.PortForm.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaLetrehozo.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Homerok.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.RiasztTorlo.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Visszajelzes.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.Properties.Resources.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ParameterForm.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.CrashForm.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.MainForm.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ReportForm.resources
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\Szelcsend.csproj.GenerateResource.Cache
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\Szelcsend.exe
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\MainWindow.g.cs
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\App.g.cs
+\\tplinklogin.net\volume1\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\MainWindow.baml
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\MainWindow.g.cs
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\App.g.cs
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\UdvozloKepernyo.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\UdvozloKepernyo.pdb
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\MainWindow.baml
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\ebreszt.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\ebreszt.pdb
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Szelcsend.exe.config
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Szelcsend.exe
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Aga.Controls.dll
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\ebreszt.exe
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OxyPlot.dll
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OxyPlot.WindowsForms.dll
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\UdvozloKepernyo.exe
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\ebreszt.pdb
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\UdvozloKepernyo.pdb
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Aga.Controls.pdb
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.csprojResolveAssemblyReference.cache
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\MainWindow.g.cs
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\App.g.cs
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_Content.g.cs
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_MarkupCompile.cache
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_MarkupCompile.lref
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\MainWindow.baml
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.g.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.AlapBeallito.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.AzonnaliVez.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.AboutBox.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Frissito.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Klonozo.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaKivalaszto.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaSzerkeszto.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.PortForm.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaLetrehozo.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Homerok.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.RiasztTorlo.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Visszajelzes.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.Properties.Resources.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ParameterForm.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.CrashForm.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.MainForm.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ReportForm.resources
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.csproj.GenerateResource.Cache
+E:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.exe
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Nyelvvalaszto.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.BiztSzenzorok.resources
+D:\Users\János\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Felcimkezo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Szelcsend.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Szelcsend.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OxyPlot.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\OxyPlot.WindowsForms.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\MainWindow.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\App.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_Content.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_MarkupCompile.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend_MarkupCompile.lref
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\WPF\Attekinto\MainWindow.baml
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.g.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.AlapBeallito.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.AzonnaliVez.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.AboutBox.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.BiztSzenzorok.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Frissito.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Klonozo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaKivalaszto.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ListaSzerkeszto.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Nyelvvalaszto.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.PortForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Homerok.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.RiasztTorlo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.TestForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Visszajelzes.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.Felcimkezo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.Properties.Resources.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ParameterForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.CrashForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.MainForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\OpenHardwareMonitor.GUI.ReportForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\obj\Release\Szelcsend.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\PC kód\Open Hardware Monitor munkák\OHM FELDOLGOZOTT\Bin\Release\Aga.Controls.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\Szelcsend.exe.config
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\Szelcsend.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\Aga.Controls.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\OxyPlot.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\OxyPlot.WindowsForms.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\Szelcsend.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\WPF\Attekinto\MainWindow.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\WPF\Attekinto\App.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\Szelcsend_Content.g.cs
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\Szelcsend_MarkupCompile.cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\Szelcsend_MarkupCompile.lref
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\WPF\Attekinto\MainWindow.baml
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\Szelcsend.g.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Aktivalo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.AlapBeallito.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.AzonnaliVez.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.AboutBox.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.BiztSzenzorok.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Frissito.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Klonozo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ListaKivalaszto.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ListaSzerkeszto.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Nyelvvalaszto.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.PortForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Homerok.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.RiasztTorlo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.TestForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Visszajelzes.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Felcimkezo.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.Properties.Resources.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ParameterForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.CrashForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.MainForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ReportForm.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\Szelcsend.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\Szelcsend.exe
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\Bin\Release\MathNet.Numerics.dll
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.resources
+D:\Users\gatsj\Desktop\AVR ventivezérlő\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.GetTeljesverz.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\Szelcsend.exe.config
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\Szelcsend.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\Aga.Controls.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\ebreszt.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\MathNet.Numerics.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\OxyPlot.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\OxyPlot.WindowsForms.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\UdvozloKepernyo.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\ebreszt.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\UdvozloKepernyo.pdb
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\Szelcsend.csprojResolveAssemblyReference.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\WPF\Attekinto\AttekintoWPF.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\WPF\Attekinto\App.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\Szelcsend_Content.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\Szelcsend_MarkupCompile.cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\Szelcsend_MarkupCompile.lref
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\WPF\Attekinto\AttekintoWPF.baml
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\Szelcsend.g.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Aktivalo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.AlapBeallito.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.AboutBox.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.BiztSzenzorok.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Frissito.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.GetTeljesverz.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.KitTenyMutato.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Klonozo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ListaSzerkeszto.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Nyelvvalaszto.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.PortForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.RiasztasLetr.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Homerok.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.SzenzorListazo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.TestForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Visszajelzes.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.Felcimkezo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.Properties.Resources.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ParameterForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.CrashForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ReportForm.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\Szelcsend.csproj.GenerateResource.Cache
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\Szelcsend.exe
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\WPF\Tutorial\TutorWPFAblak.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\WPF\Tutorial\TutorWPFAblak.baml
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.ManualVez.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.SemaKezelo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.RiasztKezelo.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.FoAblak.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\TutorWPF.TopMostDisabledUzenet.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\en\Szelcsend.resources.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\Bin\Release\bin\Szelcsend.resources.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\WPF\Attekinto\UserControl1.g.cs
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\WPF\Attekinto\UserControl1.baml
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.FuggvenyGorbekeszito.en.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ListaSzerkeszto.bin.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\OpenHardwareMonitor.GUI.ListaSzerkeszto.en.resources
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\en\Szelcsend.resources.dll
+D:\Users\gatsj\Desktop\AVR_ventivezerlo\OHM\OHM FELD\obj\Release\bin\Szelcsend.resources.dll

@@ -1,0 +1,1178 @@
+﻿IGEN
+YES
+
+NEM
+NO
+
+CELHLEVTORZS
+Dou you really want to disconnect the Target Hardware?\nIf you do it, the fan speeds will not be sent to the Target Hardware and you will not get any error message about this.\n\nClick this option again to reconnect the Target Hardware!
+
+CELHLEVCIM
+DISCONNECTING TARGET HARDWARE
+
+ATTEKLVFKimenet
+Output
+
+ATTEKLVFFordulatszam
+Speed
+
+ATTEKLVFVezerles
+Control Type
+
+ATTEKLVHSzenzor
+Sensor
+
+ATTEKLVHErtek
+Value
+
+ATTEKLVLNev
+Name
+
+ATTEKLVLHoszenzor
+Temperature Sensor
+
+ATTEKLVLCsatornak
+Channels
+
+ATTEKLVRHoszenzor
+Temperature Sensor
+
+ATTEKLVRRel
+R
+
+ATTEKLVRFok
+°C
+
+ATTEKLVRUzenet
+Message
+
+ATTEKLVHangjelzes
+Sound
+
+ATTEKLVSpecMuv
+Special Operation
+
+ATTEKLVEbresztes
+Wakening
+
+ATTEKUICim
+Feverkill Control Software
+
+ATTEKUIHiszterezis
+Hysteresis
+
+ATTEKUICelhardver
+Target HW
+
+ATTEKUIFrissido
+Refreshing rate
+
+ATTEKHelpToolTip
+Help
+
+ATTEKHalAblToolTip
+Open Advanced Window
+
+ATTEKHideToolTip
+Hide
+
+ATTEKFeedbackToolTip
+Send Your Feedback!
+
+Celhardver
+Target HW
+
+Hiba!
+Error!
+
+Levalasztva
+Disconnected
+
+ajanlott
+recommended
+
+kikapcsolva
+disabled
+
+NagyobbNemAjanlott
+higher not recommended
+
+LEVALASZTVA
+DISCONNECTED
+
+Halado
+Advanced
+
+Mi ez?
+What is this?
+
+Beallitas
+Set
+
+AktivListak
+Active schemes
+
+InaktivListak
+Inactive schemes
+
+db
+pc
+
+LKIVH3
+Select schemes or click on one\r\nof them for other operations.
+
+LKIVH6
+Here are the inactive schemes.\r\nTo activate them move these to the right.
+
+LKIVH7
+Each item to the right.
+
+LKIVH8
+Selected items to the right.
+
+LKIVH9
+Selected items to the left.
+
+LKIVH10
+These schemes will be active, when you\r\nclick the ACTIVATE button.
+
+LKIVH11
+    ACTIVATE    
+
+LKIVH12
+Each item to the left.
+
+LKIVH13
+Click to the ? button again to hide the help!
+
+LKIVH14
+Select schemes or click on one\r\nof them for other operations.
+
+LKIVH15
+Click an item double to view or modify it!
+
+LKIVH16
+   Selected items/ items in the group.   
+
+LKIVH17
+Click an item double to view or modify it!
+
+LKIVH18
+ Create a new schema! 
+
+SzabalyzolistakKezelese
+Control Scheme Manager
+
+Név
+Name
+
+Hoszenzor
+Temperature Sensor
+
+Csatornák
+Channels
+
+Érték
+Value
+
+Szerkesztés
+Edit
+
+Klónozás
+Clone
+
+Törlés
+Delete
+
+LKIVTörl1
+Are you sure to delete the selected 
+
+LKIVTörl2
+ Control Schemes?\nThis operation is irreversible.
+
+LKIVTörlCIM
+DELETING CONTROL SCHEMES
+
+KlónozóCÍM
+Give a name to the clone and press Enter!
+
+Névhiba!
+Name Error!
+
+NevhibaNemelteroKlon
+Give a different name to the Cloned Control Scheme!
+
+NevhibaNincs
+Give a name to the Control Scheme!
+
+NevhibaVanilyen
+A Control Scheme already exists with this name!
+
+Új Szabályzólista
+New Control Scheme
+
+Új Riasztás
+New Alert
+
+SzenzListazoTutor
+Doubleclick the temperature sensor, which you want to create a Control List or PID control to!\nTo change between the two option, click the "Change to ... control" button in the next window.
+
+LSZERKLetrCIM
+Set the Control Scheme!
+
+LSZERKModCIM
+Modify the Control Scheme or close the window!
+
+LSZERKLetrMentGomb
+Save Control Scheme
+
+LSZERKModMentGomb
+Save Changes
+
+LSZERKInterpolacio
+Interpolate
+
+LSZERKMindxre
+Each to              %      
+
+LSZERKDefSzablist
+Define the Control List to this sensor:
+
+LSZERKAlaplapiVentik
+Fans on built-in connectors
+
+LSZERKCelhCsat
+Channels on the Target HW
+
+LSZERKFordszam
+ \r\nF\r\nA\r\nN\r\n \r\nS\r\nP\r\nE\r\nE\r\nD
+
+LSZERKMindxMbox1
+Are you sure to set all slides to 
+
+LSZERKMindxMbox2
+% ?
+
+LSZERKInterpHibaCIM
+Interpolating is not possible
+
+LSZERKInterpHibaSZOVEG
+Set minimum 1 slider as prop point of the interpolation!\n(It can be done by using the checkbox under the slider.)\n\nThe interpolation is linear between the marked sliders.
+
+LSZERKTextboxNevAlapszoveg
+Give a name to the Control Scheme!
+
+LSZERKNincsSzenzorMboxCIM
+Temperature sensors not found!
+
+LSZERKNincsSzenzorMboxSZOVEG
+Temperature sensors can not be found in the PC. You can edit the Control List, but without any assigned temperature sensors, the List will not affect on the control logic. Of course, you can assign a temperature sensor to the list later.
+
+Manuális Vezérlés - Célhardver
+Manual Control - Target Hardware
+
+ManualDeaktMboxSZOVEG
+Are you sure to set each channels on the Target HW to List-based control?
+
+ManualDeaktMboxCIM
+Void Manual control
+
+IndFordszCIM
+Startup Fan Speeds on Target Hardware
+
+IndFordszHibaCIM
+Upload Failed
+
+IndFordszHibaSZOVEG
+Upload failed!\nTry again!
+
+RKEZCIM
+Alert Manager
+
+RKEZHoszenzor
+Temperature Sensor
+
+RKEZMuvelet
+Relation
+
+RKEZRiasztpont
+Alerting Point
+
+RKEZUzenet
+Message
+
+RKEZHangjelzes
+Sound
+
+RKEZSpecMuv
+Special Operation
+
+RKEZEbresztes
+Wake up
+
+p
+m
+
+Alvás
+Sleep
+
+Hibernálás
+Hibernate
+
+Leállítás
+Shut down
+
+Újraindítás
+Restart
+
+Semmi
+None
+
+RKEZTorl1
+Are you sure to delete the selected 
+
+RKEZTorl2
+ alerts?
+
+Aktív Szabályzólisták
+Active Control Lists
+
+Inaktív Szabályzólisták
+Inactive Control Lists
+
+Célhardver
+Target Hardware
+
+Ventilátorok a Célhardveren
+Fans on the Target Hardware
+
+csatorna
+channel
+
+Belső Ventilátorok
+Built-in Fans
+
+Manuális
+Manual
+
+Alapértelmezett
+Default
+
+Listaalapú
+List-based
+
+Vezérlés
+Control
+
+FrissitoLabelKeres
+Checking for updates...
+
+FrissitoLabelLetoltes
+Downloading...
+
+FrissitoMegse
+Cancel
+
+FrissitoNaprakesz
+Software is up to date!
+
+FrissitoUjMboxCIM
+Newer version Found!
+
+FrissitoUjMboxSZOVEG
+A new version of this software is available.\nDo you want the software to download and install it?
+
+FrissitoLetolveMboxCIM
+Download Complete!
+
+FrissitoLetolveMboxSZOVEG
+Update was downloaded.\nAfter you click OK, Control Software closes. Until the update completes, it will not be available.
+
+Vezérlőszoftver
+Control Software
+
+Licenszelve:
+Licensed to:
+
+HomerokCIM
+Thermometers
+
+KITMUTCIM
+Actual Fan Speeds on the Target Hardware
+
+Csatorna
+Channel
+
+Ventilátor Fordulatszám
+Fan Speed
+
+VJELZCIM
+Send Your Feedback!
+
+VJELZLab1
+Help us to improve Feverkill, in favor of You too.\r\nIf you want any new features to get in Feverkill, found any bugs, or have any other suggestions, we take your help with pleasure!
+
+VJELZLab2
+        Hardware Report
+
+VJELZLab3
+E-mail add.:
+
+VJELZLab4
+(Not required. Perhaps for personal assistance if you have any questions.)
+
+VJELZLab5
+Message:
+
+VJELZCbox
+Enclose Hardware report
+
+VJELZBut1
+Send
+
+VJELZMboxKoszonjukSZOVEG
+Thank you, for your assistance!
+
+VJELZMboxHibaSZOVEG
+Sending failed!\nPlease, try again!
+
+MFfileMenuItem{--> Fájl
+File
+
+MFviewMenuItem{--> Nézet
+View
+
+MFplotMenuItem{--> Szenzorgrafikon Mutatása
+Show Sensor Graph
+
+MFsaveReportMenuItem{--> Hardverkonfiguráció Mentése
+Save Hardware Report
+
+MFoptionsMenuItem{--> Beállítások
+Settings
+
+MFhddMenuItem{--> Merevlemezek
+HDDs
+
+MFseparatorMenuItem{--> -
+-
+
+MFstartMinMenuItem{--> Haladó Ablak Indítása Kis Méretben
+Start Advanced Window Minimized
+
+MFhiddenMenuItem{--> Mutasd a Rejtett Szenzorokat Is (Haladó Ablak)
+Show Hidden Sensors (Advanced Window)
+
+MFcolumnsMenuItem{--> Megjelenő Oszlopok (Haladó Ablak)
+Displayed Columns (Advanced Window)
+
+MFvalueMenuItem{--> Érték
+Value
+
+MFminMenuItem{--> Minimum
+Minimum
+
+MFmaxMenuItem{--> Maximum
+Maximum
+
+MFtemperatureUnitsMenuItem{--> Mértékegység
+Temperature Unit
+
+MFcelsiusMenuItem{--> Celsius
+Celsius
+
+MFfahrenheitMenuItem{--> Fahrenheit
+Fahrenheit
+
+MFMenuItem2{--> -
+-
+
+MFresetMinMaxMenuItem{--> Minimum és Maximum Értékek Nullázása
+Reset Min/Max Values
+
+MFplotLocationMenuItem{--> Szenzorgrafikon Elhelyezkedése
+Plot Location
+
+MFplotWindowMenuItem{--> Saját Ablak
+Window
+
+MFplotBottomMenuItem{--> Lent Dokkol
+Bottom
+
+MFplotRightMenuItem{--> Jobbra Dokkol
+Right
+
+MFwebMenuItem{--> Távvezérlő  Webszerver
+Remote Webserver
+
+MFrunWebServerMenuItem{--> Futás
+Run
+
+MFserverPortMenuItem{--> Port
+Port
+
+MFmenuItem5{--> Hardverek
+Hardware
+
+MFmainboardMenuItem{--> Alaplap
+Motherboard
+
+MFcpuMenuItem{--> CPU
+CPU
+
+MFgpuMenuItem{--> GPU
+GPU
+
+MFfanControllerMenuItem{--> Ventillátor vezérlők
+Fan Controllers
+
+MFramMenuItem{--> RAM
+RAM
+
+MFlogSensorsMenuItem{--> Szenzoradatok Naplózása
+Log Sensors
+
+MFlogSeparatorMenuItem{--> -
+-
+
+MFloggingIntervalMenuItem{--> Naplózási Sűrűség
+Log Interval
+
+MFlog1sMenuItem{--> 1s
+1s
+
+MFlog2sMenuItem{--> 2s
+2s
+
+MFlog5sMenuItem{--> 5s
+5s
+
+MFlog10sMenuItem{--> 10s
+10s
+
+MFlog30sMenuItem{--> 30s
+30s
+
+MFlog1minMenuItem{--> 1min
+1min
+
+MFlog2minMenuItem{--> 2min
+2min
+
+MFlog5minMenuItem{--> 5min
+5min
+
+MFlog10minMenuItem{--> 10min
+10min
+
+MFlog30minMenuItem{--> 30min
+30min
+
+MFlog1hMenuItem{--> 1h
+1h
+
+MFlog2hMenuItem{--> 2h
+2h
+
+MFlog6hMenuItem{--> 6h
+6h
+
+MFmenuItem4{--> -
+-
+
+MFmenuItem6{--> Felül Maradó
+Topmost
+
+MFstartupMenuItem{--> Indítás a Windowszal
+Run On Windows Startup
+
+MFmenuItem7{--> 
+
+
+MFvezerlesMenuItem{--> VEZÉRLÉS
+CONTROL
+
+MFmenuItem8{--> Szabályzólista Létrehozása
+Create Control List
+
+MFmenuItem9{--> Szabályzólisták Kezelése
+Manage Control Lists
+
+MFmenuItem10{--> -
+-
+
+MFmenuItem11{--> Manuális Vezérlés (Célh)
+Manual Control (Target HW)
+
+MFmenuItem12{--> Minden Manuális Vezérlés Feloldása (Célh)
+Void All Manual Controls (Target HW)
+
+MFmenuItemKilepes{--> Kilépés
+Exit
+
+MFmenuItemSegitseg{--> Segítség
+Help
+
+MFmenuItem16{--> Használati Útmutató
+Users Guide
+
+MFmenuItem17{--> Szélcsend
+Feverkill
+
+MFmenuItem18{--> Szabályzólisták
+Control Lists
+
+MFmenuItem19{--> Direkt Vezérlés
+Manual Control
+
+MFmenuItem20{--> Alapértelmezett Fordulatszám
+Startup Fan Speed
+
+MFmenuItem21{--> -
+-
+
+MFmenuItem22{--> -
+-
+
+MFmenuItem23{--> Visszajelzés Küldése
+Send Your Feedback!
+
+MFmenuItem24{--> Kapcsolat
+About
+
+MFmenuItem25{--> -
+-
+
+MFmenuItem26{--> Indítási Fordulatszámok Beállítása (Célh)
+Set Startup Fan Speeds (Target HW)
+
+MFmenuItem13{--> -
+-
+
+MFmenuItem27{--> -
+-
+
+MFmenuItem28{--> Alaplapi Vezérlés
+Motherboard Control
+
+MFmenuItem29{--> Szabályzólisták Összevetése
+Cooperating Control Lists
+
+MFmenuItem30{--> Felül Maradás
+TopMost
+
+MFmenuItem32{--> Frissítések Keresése
+Check For Updates
+
+MFmenuItem31{--> -
+-
+
+MFkilépésToolStripMenuItem{--> Kilépés
+Exit
+
+MFmutatásRejtésToolStripMenuItem{--> Haladó
+Advanced
+
+MFmenuItem33{--> Haladó Ablak Mutatása/Rejtése
+Show/Hide Advanced Window
+
+MFmenuItem36{--> -
+-
+
+MFmenuItem37{--> Aktuális Fordulatszámok Mutatása
+Show Actual Fan Speeds
+
+MFmenuItem34{--> Riasztás Létrehozása
+Create Alert
+
+MFmenuItem38{--> -
+-
+
+MFmenuItem35{--> Riasztások Kezelése
+Managing Alerts
+
+MFmenuItem39{--> Hőmérsékletek Mutatása
+Show Thermometers
+
+MFmenuItem40{--> -
+-
+
+MFmenuItem43{--> Riasztások
+Alerts
+
+MFmenuItem42{--> -
+-
+
+MFmenuItem41{--> -
+-
+
+MFmenuItem44{--> Opacitás Beállítása
+Set Opacity
+
+MFmenuItem45{--> 10%
+10%
+
+MFmenuItem46{--> 20%
+20%
+
+MFmenuItem47{--> 30%
+30%
+
+MFmenuItem48{--> 40%
+40%
+
+MFmenuItem49{--> 50%
+50%
+
+MFmenuItem50{--> 60%
+60%
+
+MFmenuItem51{--> 70%
+70%
+
+MFmenuItem52{--> 80%
+80%
+
+MFmenuItem53{--> 90%
+90%
+
+MFmenuItem54{--> 100%
+100%
+
+MFmenuItem55{--> Keresés Minden Indításkor
+Check On Every Startup
+
+MFfordulatszámokToolStripMenuItem{--> Fordulatszámok
+Fan Speeds
+
+MFhőmérsékletekToolStripMenuItem{--> Hőmérsékletek
+Temperatures
+
+MFfelülMaradóToolStripMenuItem{--> Felül Maradó
+Topmost
+
+MFelőtérbeToolStripMenuItem{--> Nyitottakat Előtérbe!
+Showed Windows to Top!
+
+MFbetekintesToolStripMenuItem{--> Betekintés
+View Temps
+
+MFmenuItem1{--> -
+-
+
+MFmenuItem3{--> Súgó
+Help
+
+MFmenuItem57{--> Célhardver Csatlakoztatva
+Target HW Is Connected
+
+MFmenuItem58{--> -
+-
+
+MFmenuItem59{--> Nyitottakat Előtérbe!
+Showed Ones to Front!
+
+MFmenuItem61{--> Mi ez?
+What is this?
+
+MFmenuItem62{--> 1 sec
+1 sec
+
+MFmenuItem63{--> 2 sec
+2 sec
+
+MFmenuItem64{--> 3 sec
+3 sec
+
+MFmenuItem65{--> 4 sec (ajánlott)
+4 sec (recommended)
+
+MFmenuItem66{--> 5 sec
+5 sec
+
+MFmenuItem67{--> 6 sec
+6 sec
+
+MFmenuItem68{--> 7 sec
+7 sec
+
+MFmenuItem69{--> 8 sec (nagyobb NEM ajánlott)
+8 sec (higher NOT recommended)
+
+MFmenuItem70{--> 9 sec
+9 sec
+
+MFmenuItem71{--> 10 sec
+10 sec
+
+MFmenuItem72{--> 12 sec
+12 sec
+
+MFmenuItem73{--> 14 sec
+14 sec
+
+MFmenuItem74{--> 16 sec
+16 sec
+
+MFmenuItem75{--> 18 sec
+18 sec
+
+MFmenuItem76{--> 20 sec
+20 sec
+
+MFmenuItem77{--> 1,5 sec
+1,5 sec
+
+MFmenuItem78{--> -
+-
+
+MFmenuItem79{--> 0%
+0%
+
+MFmenuItem80{--> -
+-
+
+MFmenuItem81{--> Gyorsbillenytűk
+Shortcuts
+
+MFmenuItem82{--> -
+-
+
+MFmenuItem83{--> -
+-
+
+MFmenuItem84{--> Célhardver Első Használata
+First Use of Target HW
+
+MFmenuItem85{--> Célhardver
+Target Hardware
+
+MFmenuItem87{--> Tutorial Léptetése
+Move Tutorial
+
+MFmenuItem88{--> -
+-
+
+MFmenuItem86{--> Tutorial Mód Aktív
+Tutorial
+
+MFmenuItem89{--> -
+-
+
+MFmenuItem56{--> Minden Alaplapi Ventilátor Listaalapú Vezérlésre
+Each Built-in Fan to List-based Control
+
+MFmenuItem90{--> Minden Alaplapi Ventilátor Eredeti Vezérlésre
+Each Built-in Fan to Default Control
+
+MFmenuItem91{--> -
+-
+
+MFmenuItem92{--> Áttekintő Mutatása
+Show Reviewer
+
+MFáttekintőToolStripMenuItem{--> Áttekintő
+Reviewer
+
+MFmenuItem14{--> -
+-
+
+MFmenuItem60{--> Frissítési Időköz
+Refreshing Rate
+
+MFmenuItem93{--> Hiszterézis
+Hysteresis
+
+MFmenuItem94{--> -
+-
+
+MFmenuIthisz0{--> 0°C
+0°C (disabled)
+
+MFmenuIthisz1{--> 1°C
+1°C
+
+MFmenuIthisz2{--> 2°C (ajánlott)
+2°C (recommended)
+
+MFmenuIthisz3{--> 3°C
+3°C
+
+MFmenuIthisz4{--> 4°C
+4°C
+
+MFmenuIthisz5{--> 5°C
+5°C
+
+MFmenuItem95{--> Üdvözlőképernyő Megjelenítése Indításkor
+Show Welcome Screen On Startup
+
+MFmenuItem96{--> Nyelv
+Language
+
+MFmenuItem97{--> Biztonsági Hőszenzorok Beállítása (Célh)
+Set Safety Temperature Sensors (Target HW)
+
+MFmenuItem99{--> Játszótér
+Playground
+
+MFmenuItem100{--> Kernel32 HDDinfo Letiltása
+Disable Kernel32 HDDinfo
+
+MFmenuItem101{--> Licensz Információk
+License Information
+
+MFmenuItem102{--> Betekintő Megjelenítése
+Show Temp Viewer
+
+MFmenuItem15{--> Auto Indítás Késleltetése
+Delay Auto Start
+
+Feverkill_Hardverkonfiguracio-jelentes_
+Feverkill_Hardware-report_
+
+JelentMentDialogCIM
+Save Hardware Report
+
+Frissítési Időköz
+Refreshing Rate
+
+FrissIdoMboxSZOVEG
+This parameter defines how often the software query the values of the built-in sensors and adjusts the fan speeds.\n\nSmaller delay means higher sensitivity.\nHowever, requires greater computing performance.
+
+Opacitás
+Opacity
+
+OpacitasMbox1SZOVEG
+Are you sure in this setting?\nThis way this window will be invisible!
+
+OpacitasMbox2SZOVEG
+By hit the Insert key, you can return to 100% opacity.
+
+Súgó
+Help
+
+SugoMboxSZOVEG
+Do you want to turn on hints?\n\nIf you have any other questions contact the developer team under "Help>>Send Your Feedback" menu.
+
+AutoIndHibaMboxSZOVEG
+Updating auto startup settings failed.
+
+Szenzor
+Sensor
+
+TRUZLeallCIM
+Control Software Stopped
+
+TRUZLeallSZOVEG
+No alerts and control!\nBuilt-in fans on default control!
+
+TRUZFrissHibaSZOVEG
+Checking failed for updates!
+
+TRUZNemFrissSZOVEG
+Did not checked for updates
+
+TRUZNaprakeszSZOVEG
+Up to date
+
+TRUZUjVerzVanSZOVEG
+New version availabke\nAdvanced Window: Shortcut:
+
+TRUZSzelcsRiasztasCim
+Feverkill ALERT
+
+TRUZFrissitveCIM
+Feverkill Updated
+
+MboxElsoind1SZOVEG
+This is the first start of this software.\n\nDo you want to start the tutorial?
+
+MboxElsoind2SZOVEG
+You can start the tutorial anytime by clicking "Advanced Window: Help>>Tutorial Mode Is Active" menu.
+
+KapcsHIBACIM
+Error in the connection!
+
+KapcsHIBASZOVEG1
+Sending fan speeds failed 
+
+KapcsHIBASZOVEG2
+ times! The values on the Target HW probably are not suitable.
+
+BiztSzenzCIM
+Safety Temperature Sensors
+
+BIZHLabHatár
+Border:
+
+CélhNemTalalhCIM
+Target HW not found
+
+CélhNemTalalhSZOVEG
+The Target HW is not connected properly or the COM port is busy!\nThe software can not communicate with the Target HW.
+
+Frissítés
+Refresh
+
+Felcímkézés
+Set Label
+
+FelcimkezoCÍM
+Give a label to the channel, and press Enter!
+
+RiaLetrCIM
+Create New Alert
+
+RiaLetrKerdojelGombCIM
+Auto Wake Up
+
+RiaLetrKerdojelGombTEST
+      In case of sleep or hibernate there is a possibility of waking up our computer after a given delay. It is especially useful when we leave the computer alone while doing a task that requires long time and great computing performance like for example rendering.\n      If the maximum cooling capacity is not enough to keep the appropriate temperature the computer sleeps or hibernates. After cooling down it wakes up and goes on with its task until it becomes necessary to have a break again. This way we can make sure that our computer will not get overheated and still it will do its job.
+
+RiaLetrLabelSzenzKiv
+Select the temperature sensor:
+
+RiaLetrLabelUzenet
+Write here the message that will be displayed on the tray:
+
+RiaLetrLabelRiaPont
+Alert point:
+
+RiaLetrLabelRelacio
+Alert when the temperature is              than the Alert point.
+
+RiaLetrCheckboxHangjelz
+Sound
+
+RiaLetrCheckboxEbresztes
+Wake up after                  minutes.
+
+RiaLetrButtonMentes
+Save
+
+RiaLetrGroupboxCIM
+Special operation
+
+RiaLetrRadioNincsMuv
+Nothing
+
+RiaLetrRadioAlvoAll
+Sleep
+
+RiaLetrRadioHibernal
+Hibernate
+
+RiaLetrRadioLeallit
+Shut down
+
+RiaLetrRadioUjraind
+Restart
+
+ATTEKFrissIdokozMboxCIM
+Refreshing rate
+
+ATTEKFrissIdokozMboxSZOVEG
+     This value defines the delays length between two temperature measuring and fan speed recalculating actions.\n     Shorter delay means higher sensitivity, but needs more computing performance.
+
+LKIVSzerkTulSokListaMboxCIM
+TOO MANY SELECTED ITEM
+
+LKIVSzerkTulSokListaMboxSZOVEG
+You can select only one List for editing.
+
+LKIVTutorialMboxCIM
+Tutorial
+
+LKIVTutorialMboxSZOVEG
+The software adjusts the fan speeds according to the activated Control Lists.\nActivate Lists by placing them to the right side and then clicking on the ACTIVATE button.\nIf you do not want to activate the changes, simply close this window and confirm the exit without saving!\n\nClick on the \"?\" button (Center Top).
+
+LKIVTutorial2MboxCIM
+Tutorial
+
+LKIVTutorial2MboxSZOVEG
+Click on the \"?\" button to learn more about the user interface. (Center Top)
+
+LKIVErvenyesitesSikeresCIM
+Successful Activation
+
+LKIVErvenyesitesSikeresSZOVEG
+Activation succeeded!
+
+LKIVErvenyesitesSikertelenCIM
+Unsuccessful Activation
+
+LKIVErvenyesitesSikertelenSZOVEG
+Activation not succeeded!\nPlease, try it again!
+
+LKIVBiztosanKilepMboxCIM
+Unsaved changes!
+
+LKIVBiztosanKilepMboxSZOVEG
+There are some unsaved changes.\nIf you close this window now, these changes will be lost.\n(Organisation of the Control Schemes)\n\nDo you really want to exit?
+
+LKIVErvenyesitMostMboxCIM
+Instant Activation
+
+LKIVErvenyesitMostMboxSZOVEG
+Do you want to activate the Lists now?
+
+PLOTPANConMenuKulongraf
+Different types to separated graphs
+
+PLOTPANConMenuIdobontas
+Time axis interval
+
+Elrejtés
+Hide
+
+Mutatás
+Show
+
+Vonalszín...
+Pen Color...
+
+Szín Visszaállítása
+Reset Pen Color
+
+Kern32HDDLetiltMboxCIM
+Disable HDDinfo
+
+Kern32HDDLetiltMboxSZOVEG
+If you have a motherboard with a NOT standard structure the Control Software may produces lagging and doesn't terminate after exit. In this case should disable the Kernel32 HDDinfo queries.\n\nDo you want to disable the Kernel32 HDDinfo queries?
+
+BetekintMegjelenitMboxCIM
+Temp Viewer
+
+BetekintMegjelenitMboxSZOVEG
+If enabled, temperatures are visible in the menu of the tray icon.\nThis means some extra resource requirements.\n\nDo you want Temp Viewer to be displayed?
+
+Hozzon létre új vezérlési sémákat!
+Create new control schemes!
+
+Hozzon létre új riasztásokat!
+Create new alerts!
+
+Ehhez kattintson erre a villanykörtére, jobbra fent!
+To do this, click this light bulb above right!
+
+MBoxSzovegFreeCimkezes
+In the free version of the Control Software you can set label only for the 1. channel. Do you want to set unlimited labels?
+
+MBoxSzovegFreeAktivszablist
+In the free version of the Control Software you can use maximum 2 active control schemes. Do you want to activate unlimited lists?
+
+MBoxSzovegFreeRiasztletrehoz
+In the free version of the Control Software you can create maximum 2 alerts. Do you want to create unlimited alerts?
+
+LSZERKValtPID
+Change to PID control
+
+LSZERKValtLista
+Change to List-based control
+
+LSZERKFuggGorbe
+Create Function Curve
+
+FugvGorbKeszMBoxSzoveg
+The limit of the passive mode has to be smaller than the maximal temperature.
